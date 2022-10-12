@@ -27,6 +27,9 @@ const Statistics = () => {
           </BarChart>
         </ResponsiveContainer>
       </div>
+      <footer className="text-center text-black font-bold pt-4 rounded">
+        <p><small>Copyright © 2022 web quiz store.</small></p>
+    </footer>
     </div>
   );
 };
