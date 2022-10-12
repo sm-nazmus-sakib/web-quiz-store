@@ -6,7 +6,7 @@ const Quiztopics = () => {
   const QuizTopic = useLoaderData();
   return (
     <div className="px-2">
-      <div className="text-center bg-blue-600 py-2 text-white">
+      <div className="text-center bg-blue-600 py-2 text-white rounded-lg font-semibold">
         <h1 className="text-2xl"> Welcome to Web Quiz Store </h1>
         <p>The Best quiz store for free.</p>
       </div>
@@ -15,7 +15,7 @@ const Quiztopics = () => {
           <Quiztopic key={topic.id} topic={topic}></Quiztopic>
         ))}
       </div>
-      <footer className="text-center bg-blue-600">
+      <footer className="text-center text-white font-bold bg-blue-600 rounded">
         <p><small>Copyright © 2022 web quiz store.</small></p>
       </footer>
     </div>
