@@ -15,6 +15,9 @@ const Quiztopics = () => {
           <Quiztopic key={topic.id} topic={topic}></Quiztopic>
         ))}
       </div>
+      <footer className="text-center bg-blue-600">
+        <p><small>Copyright © 2022 web quiz store.</small></p>
+      </footer>
     </div>
   );
 };
