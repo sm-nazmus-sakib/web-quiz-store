@@ -20,7 +20,12 @@ We have also Used flowBite components to design our site.
 
 
 ### `HTML & CSS`
-
 HTML & CSS is a core part for building a site. I have also used HTML & CSS.
+
+
+### `Private Repo lik`
+(https://github.com/programming-hero-web-course2/b6-quiz-crackerz-sm-nazmus-sakib)
+
+
 ### `NETLIFY LIVE SITE LINK`
-[LiveSite]() --click to view Live Site
+[LiveSite](https://web-quiz-store.netlify.app/) --click to view Live Site
